@@ -6,5 +6,5 @@
  2. `cd challenge-alkemy`
  3. Configurar entornos de frontend y backend. Para ello dirigirse a cada carpeta y seguir los pasos en los respectivos archivos readme.
  
- Link del aplicativo en funcionamiento: https://alkemy-challenge-front-vite.netlify.app/home
+ Link del aplicativo en funcionamiento: https://alkemy-challenge-front-vite.netlify.app
  
