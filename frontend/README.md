@@ -2,10 +2,10 @@
  Frontend de Solución a Alkemy Challenge usando React
 
  # Tecnologías usadas
-    * Vite
-    * Tailwindcss
-    * DaysiUI
-    * Librerías como react-donut-chart, axios
+- Vite
+- Tailwindcss
+- DaysiUI
+- Librerías como react-donut-chart, axios
  
  # Pasos para correr de manera local
  1. `cd frontend`
