@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin:0;
+}
+
+.bg-auth {
+    background: linear-gradient(to right bottom, #ceacfe, #c6b0ff, #c0b5ff, #b9b8ff, #b4bcff, #abc3ff, #a4c9ff, #a0cfff, #9ed9fe, #a2e1fa, #ace8f7, #b9eff3);
+}
